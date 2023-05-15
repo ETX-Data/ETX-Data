@@ -7,6 +7,7 @@ Every Texan is known for practical, data-driven policy solutions. We use high-qu
 
 ### Our Work
 :art: **[Tableau Portfolio](https://public.tableau.com/app/profile/everytexan)**
+
 :books: Check our our latest reports, dashboards, data briefs, and more at **[our website](https://everytexan.org/research-data/)**.
 
 ### Contact Us
